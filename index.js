@@ -1,4 +1,7 @@
 function shout (string) {
   return string.toUpperCase()
 }
-function   return string.tolowercase()
+function wishper (string) {
+  
+}
+  return string.tolowercase()
